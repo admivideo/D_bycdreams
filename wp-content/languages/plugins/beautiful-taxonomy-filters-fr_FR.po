@@ -1,0 +1,449 @@
+# Translation of Plugins - Beautiful taxonomy filters - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Beautiful taxonomy filters - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-07 09:53:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Beautiful taxonomy filters - Stable (latest release)\n"
+
+#: admin/partials/advanced/conditional-dropdowns-settings-display.php:32
+msgid "Exclude these taxonomies from being affected:"
+msgstr "Exclure ces taxonomies du champ d’application :"
+
+#: admin/partials/help/help.php:31
+msgid "Learn about hooks and API"
+msgstr "En savoir plus au sujet des crochets et de l’API"
+
+#: admin/partials/help/help.php:30
+msgid "There is a ton of filters and actions you can use to change BTFs behavior, add functionality and tweak stuff. If you find that you are in need of a hook that isn't there contact me and I will try to help you out!"
+msgstr "Il existe des tonnes de filtres et d’actions que vous pouvez utiliser pour modifier le comportement de BTF, ajouter des fonctionnalités et personnaliser des choses. Si vous trouvez qu’il manque un crochet quelque part, contactez-moi et j’essaierai de vous aider !"
+
+#: admin/partials/help/help.php:29
+msgid "I want to change the plugins behaviour"
+msgstr "Je souhaite modifier le comportement de l’extension"
+
+#: admin/partials/help/help.php:27
+msgid "Read the FAQ"
+msgstr "Lire la FAQ"
+
+#: admin/partials/help/help.php:27
+msgid "Check the forum"
+msgstr "Aller sur le forum"
+
+#: admin/partials/help/help.php:26
+msgid "Please take a look in the FAQ and search the forum before starting a new topic."
+msgstr "Veuillez jeter un œil à la FAQ et de rechercher sur le forum avant d’ouvrir un nouveau sujet."
+
+#: admin/partials/help/help.php:25
+msgid "I try to be as helpful as I can. You can find several topics in the WordPress forum or ask for help to a new issue. It's also possible to start an issue on <a href=\"%s\">github.</a>"
+msgstr "J’essaie d’être le plus utile possible. Vous pouvez trouver de nombreux sujets sur le forum WordPress. Vous pouvez aussi demandez de l’aide au sujet d’un nouveau problème. Il est également possible d’ouvrir un ticket sur <a href=\"%s\">GitHub.</a>"
+
+#: admin/partials/help/help.php:24
+msgid "I need more help!"
+msgstr "J’ai encore besoin d'aide !"
+
+#: admin/partials/basic/styles-settings-display.php:21
+msgid "Dark Material Design"
+msgstr "Conception matérielle sombre"
+
+#: admin/partials/basic/styles-settings-display.php:20
+msgid "Light Material Design"
+msgstr "Conception matérielle claire"
+
+#: admin/partials/basic/styles-settings-display.php:19
+msgid "Simple"
+msgstr "Simple"
+
+#: admin/partials/basic/styles-settings-display.php:18
+msgid "No Styling"
+msgstr "Aucun style"
+
+#: admin/partials/basic/custom-css-settings-display.php:15
+msgid "Example:"
+msgstr "Exemple :"
+
+#: admin/partials/advanced/conditional-dropdowns-settings-display.php:27
+msgid "This is a beta feature. If you find issues with it please check the forum and post a new topic if needed."
+msgstr "Ceci est une fonctionnalité beta. Si vous rencontrez des problèmes avec celle-ci, veuillez visiter le forum et y publier un nouveau sujet si nécessaire."
+
+#: admin/partials/admin-display.php:24
+msgid "About"
+msgstr "À propos"
+
+#: admin/partials/admin-display.php:23
+msgid "Help"
+msgstr "Aide"
+
+#: admin/partials/admin-display.php:22
+msgid "Advanced options"
+msgstr "Options avancées"
+
+#: admin/partials/admin-display.php:21
+msgid "Basic options"
+msgstr "Options de base"
+
+#: admin/partials/about/about.php:13
+msgid "Beautiful Taxonomy Filters on Github"
+msgstr "Beautiful Taxonomy Filters sur GitHub"
+
+#: admin/partials/about/about.php:12
+msgid "Beautiful Taxonomy Filters is maintained by <a href=\"%1$s\" target=\"_blank\">Jonathan</a> at the agency <a href=\"%2$s\" target=\"_blank\">Tigerton</a>."
+msgstr "Beautiful Taxonomy Filters est maintenu par <a href=\"%1$s\" target=\"_blank\">Jonathan</a> de l’agence <a href=\"%2$s\" target=\"_blank\">Tigerton</a>."
+
+#: admin/partials/about/about.php:6
+msgid "I recommend using <a href=\"%1$s\">POEdit</a> or if you prefer to do it straight from the WordPress admin interface use <a href=\"%2$s\">Loco Translate</a>. When you’re done, send us the file(s) to <a href=\"%3$s\">jonathan@tigerton.se</a> and we’ll add it to the official plugin!"
+msgstr "Je vous recommande d’utiliser <a href=\"%1$s\">Poedit</a> ou, si vous préférez traduire directement depuis l’administration WordPress, d’utiliser <a href=\"%2$s\">Loco Translate</a>. Lorsque vous avez terminé, envoyez-nous les fichiers à <a href=\"%3$s\">jonathan@tigerton.se</a> et nous les ajouterons à l’extension officielle !"
+
+#: admin/partials/about/about.php:5
+msgid "Do you want to translate this plugin to another language?"
+msgstr "Souhaitez-vous traduire cette extension dans une autre langue ?"
+
+#: admin/partials/about/about.php:4
+msgid "The Beautiful Taxonomy Filters plugin is an easy and good-looking way to provide your visitors with filtering for your post types. With this you get a complete solution for adding filtering based on taxonomy terms/categories/tags. It will also automatically add rewrite rules for pretty looking filter URLs. It’s completely automatic, works without javascript and is based on the WordPress Plugin boilerplate for a standardized, organized and object-oriented codebase. It uses select2 for pretty looking and user-friendly dropdowns but will fall back to ordinary ones if javascript is not supported. No more horrible looking URLs or hacky Javascript solutions for you!"
+msgstr "L’extension Beautiful Taxonomy Filters est un moyen simple et élégant de fournir à vos visiteurs un système de filtres pour vos types de publication. Avec cela, vous bénéficiez d’une solution complète pour ajouter des filtres basés sur des termes de taxonomies/catégories/étiquettes. Il va également automatiquement ajouter les règles de réécriture pour des URL de filtre propres.  c’est totalement automatique, fonctionne sans javascript et est basé sur la base de code sstandardisé des extensions WordPress, organisée et orientée objet. Cela utilise select2 pour de jolies listes déroulantes conviviales mais reviendra à des listes ordinaires si javascript n’est pas supporté. Fini les URL à l’aspect horrible ou les solutions Javascript lourdes pour vous !"
+
+#: admin/partials/about/about.php:3
+msgid "Supercharge your custom post type archives by letting visitors filter posts by their terms/categories."
+msgstr "Surchargez vos archives de types de publication personnalisés en permettant aux visiteurs de filtrer les publications selon leurs termes/catégories."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:319
+msgid "Enable conditional dropdown values:"
+msgstr "Activer les valeurs conditionnelles des menus déroulants"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:319
+msgid "When selecting a term in one taxonomy dropdown the others will update accordingly making sure to only show terms that fit the current selection."
+msgstr "Lors de la sélection d’un terme dans un menu déroulant de taxonomie, les autres seront mis à jour en conséquence pour s’assurer d’afficher uniquement les termes qui correspondent à la sélection actuelle."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:120
+msgid "Beautiful Taxonomy Filters now supports conditional dropdowns to avoid empty results. Head over to the <a href=\"%s\">advanced tab</a> to enable the beta feature."
+msgstr "Beautiful Taxonomy Filters supporte désormais les menus déroulants conditionnels pour éviter les résultats vides. Rendez-vous sur <a href=\"%s\">l’onglet de réglages avancés</a> pour activer cette fonctionnalité bêta."
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/jonathan-dejong"
+msgstr "https://github.com/jonathan-dejong"
+
+#. Author of the plugin/theme
+msgid "Jonathan de Jong"
+msgstr "Jonathan de Jong"
+
+#. Description of the plugin/theme
+msgid "Supercharges your custom post type archives by letting visitors filter the posts by their terms/categories."
+msgstr "Surcharge vos archives de types de contenu personnalisés en laissant les visiteurs filtrer les publications par leurs termes/catégories."
+
+#. Plugin URI of the plugin/theme
+msgid "http://tigerton.se"
+msgstr "http://tigerton.se"
+
+#. Plugin Name of the plugin/theme
+msgid "Beautiful taxonomy filter"
+msgstr "Beautiful taxonomy filter"
+
+#: widgets/beautiful-taxonomy-filters-widget.php:298
+msgid "All "
+msgstr "Tous "
+
+#: widgets/beautiful-taxonomy-filters-widget.php:112
+msgid "By Selecting a specific posttype the filter will work from anywhere but only for that posttype."
+msgstr "En sélectionnant un type de publication spécifique, le filtre fonctionnera partout mais uniquement pour ce type de publication."
+
+#: widgets/beautiful-taxonomy-filters-widget.php:95
+msgid "Automatic (default)"
+msgstr "Automatique (par défaut)"
+
+#: widgets/beautiful-taxonomy-filters-widget.php:93
+msgid "Specific posttype: "
+msgstr "Type de publication spécifique : "
+
+#: widgets/beautiful-taxonomy-filters-widget.php:75
+msgid "Show term description: "
+msgstr "Afficher la description du terme : "
+
+#: widgets/beautiful-taxonomy-filters-widget.php:66
+msgid "Show post count: "
+msgstr "Afficher le nombre de publications : "
+
+#: widgets/beautiful-taxonomy-filters-widget.php:57
+msgid "Hide empty terms: "
+msgstr "Masquer les termes vides : "
+
+#: widgets/beautiful-taxonomy-filters-widget.php:52
+#: widgets/beautiful-taxonomy-filters-widget.php:61
+#: widgets/beautiful-taxonomy-filters-widget.php:70
+#: widgets/beautiful-taxonomy-filters-widget.php:79
+msgid "Disable"
+msgstr "Désactiver"
+
+#: widgets/beautiful-taxonomy-filters-widget.php:51
+#: widgets/beautiful-taxonomy-filters-widget.php:60
+#: widgets/beautiful-taxonomy-filters-widget.php:69
+#: widgets/beautiful-taxonomy-filters-widget.php:78
+msgid "Enable"
+msgstr "Activer"
+
+#: widgets/beautiful-taxonomy-filters-widget.php:50
+#: widgets/beautiful-taxonomy-filters-widget.php:59
+#: widgets/beautiful-taxonomy-filters-widget.php:68
+#: widgets/beautiful-taxonomy-filters-widget.php:77
+#: widgets/beautiful-taxonomy-filters-widget.php:86
+msgid "Inherit"
+msgstr "Hérite"
+
+#: widgets/beautiful-taxonomy-filters-widget.php:48
+msgid "Enable a \"clear all\" link: "
+msgstr "Activer un lien « Tout effacer » : "
+
+#: widgets/beautiful-taxonomy-filters-widget.php:23
+msgid "Add a filter module to the sidebar"
+msgstr "Ajouter un module de filtre à la colonne latérale"
+
+#: widgets/beautiful-taxonomy-filters-info-widget.php:37
+#: widgets/beautiful-taxonomy-filters-widget.php:44
+msgid "Title:"
+msgstr "Titre :"
+
+#: widgets/beautiful-taxonomy-filters-info-widget.php:23
+msgid "Add an active filter info module to the sidebar"
+msgstr "Ajouter un module d’info de filtre actif à la colonne latérale."
+
+#: public/partials/beautiful-taxonomy-filters-public-info-display.php:40
+#: widgets/beautiful-taxonomy-filters-info-widget.php:91
+msgid "Result of filter: %d"
+msgstr "Résultat du filtre : %d"
+
+#: public/partials/beautiful-taxonomy-filters-public-info-display.php:37
+msgid "Active filters"
+msgstr "Filtres activés"
+
+#: public/partials/beautiful-taxonomy-filters-public-display.php:120
+#: widgets/beautiful-taxonomy-filters-widget.php:314
+msgid "Clear all"
+msgstr "Tout effacer"
+
+#: public/partials/beautiful-taxonomy-filters-public-display.php:120
+#: widgets/beautiful-taxonomy-filters-widget.php:314
+msgid "Click to clear all active filters"
+msgstr "Cliquez pour effacer tous les filtres activés"
+
+#: public/partials/beautiful-taxonomy-filters-public-display.php:117
+#: widgets/beautiful-taxonomy-filters-widget.php:312
+msgid "Apply filter"
+msgstr "Filtrer"
+
+#: includes/class-beautiful-taxonomy-filters-activator.php:43
+msgid "Beautiful Taxonomy Filters needs some <a href=\"%s\">basic setup</a>."
+msgstr "Beautiful Taxonomy Filters nécessite une <a href=\"%s\">configuration minimale</a>."
+
+#: admin/partials/help/help.php:20
+msgid "to wherever you want the filter info to appear."
+msgstr "à l’endroit où vous voulez que les infos du filtre apparaissent."
+
+#: admin/partials/help/help.php:20
+msgid "To show the active filter info either use the widgets, automagic feature or copy:"
+msgstr "Pour afficher les informations sur le filtre actif, utilisez les widgets, la fonctionnalité Automagic ou copiez :"
+
+#: admin/partials/help/help.php:17
+msgid "<b>Note:</b> The layout of archive.php may differ drastically between different themes. We can't help you with the placement of the function in your theme so just try some locations (you can just remove the function again if something breaks) or ask in your themes support forum. Best of luck!"
+msgstr "<b>Note :</b> la mise en page de archive.php peut varier considérablement d’un thème à l’autre. Nous ne pouvons pas vous aider avec le placement de la fonction dans votre thème, alors essayez simplement quelques emplacements (vous pouvez simplement retirer à nouveau la fonction si quelque chose casse) ou demandez dans votre forum de support des thèmes. Bonne chance !"
+
+#: admin/partials/help/help.php:16
+msgid "file in your template. It should be placed somewhere above"
+msgstr "de votre thème. Vous devez le placer quelque part avant"
+
+#: admin/partials/help/help.php:16
+msgid "and paste it in your"
+msgstr "et collez le dans le fichier"
+
+#: admin/partials/help/help.php:16
+msgid "To use the dropdown filter module you can either use the widgets, the automagic feature found in the Basic tab or copy:"
+msgstr "Pour utiliser le module de filtre en liste déroulante, vous pouvez utilisez un widget ou la fonctionnalité automagic se trouvant dans l’onglet « Basic » ou copier :"
+
+#: admin/partials/help/help.php:13
+msgid "<i>success! Your previously ugly taxonomy filtering is now oh so beautiful!</i>"
+msgstr "<i>C'est fait ! Vos filtrages de taxonomies qui étaient avant si laids sont maintenant super beaux !</i>"
+
+#: admin/partials/help/help.php:12
+msgid "Save Changes."
+msgstr "Enregistrer les modifications."
+
+#: admin/partials/help/help.php:9
+msgid "Exclude any taxonomies you don't want the users to be able to filter on.</br> <b>Note:</b> Only affects taxonomies that are connected to post types you have selected"
+msgstr "Exclure les taxonomies que vous ne voulez pas que les utilisateurs puissent filtrer.</br> <b>Note :</b> affecte uniquement les taxonomies liées aux types de publication que vous avez sélectionnés"
+
+#: admin/partials/help/help.php:6
+msgid "Select the post types you want to use the filtering on.</br> <b>Note:</b> if the post type aren't connected to one or more taxonomies you wont see any results."
+msgstr "Sélectionnez les types de publications sur lesquels vous voulez utiliser le filtrage.</br> <b>Note :</b> si les types de publication ne sont pas connectés à une ou plusieurs taxonomies, vous ne verrez aucun résultat."
+
+#: admin/partials/basic/post_type-settings-display.php:34
+msgid "Open in new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: admin/partials/basic/automagic-settings-display.php:29
+msgid "Below the filter module"
+msgstr "Sous le module de filtre"
+
+#: admin/partials/basic/automagic-settings-display.php:28
+msgid "Above the filter module"
+msgstr "Au-dessus du module de filtre"
+
+#: admin/partials/basic/automagic-settings-display.php:25
+msgid "Location of the filter info module"
+msgstr "Emplacement du module d’infos du filtre"
+
+#: admin/partials/basic/automagic-settings-display.php:22
+msgid "Filter info module"
+msgstr "Module d’infos du filtre"
+
+#: admin/partials/basic/automagic-settings-display.php:18
+msgid "Filter module"
+msgstr "Module de filtre"
+
+#: admin/partials/advanced/dropdown-behaviour-settings-display.php:20
+#: widgets/beautiful-taxonomy-filters-widget.php:88
+msgid "Placeholder"
+msgstr "Étiquette"
+
+#: admin/partials/advanced/dropdown-behaviour-settings-display.php:17
+#: widgets/beautiful-taxonomy-filters-widget.php:87
+msgid "All option"
+msgstr "Toutes les options"
+
+#: admin/partials/advanced/advanced-section-display.php:15
+msgid "Settings for fine tuning your filter modules. You may leave these as default."
+msgstr "Réglages pour le calibrage fin de vos modules de filtrage. Vous pouvez les laisser par défaut."
+
+#: admin/partials/admin-display.php:17 admin/partials/help/help.php:3
+msgid "How to use Beautiful Taxonomy Filters"
+msgstr "Comment utiliser Beautiful Taxonomy Filters"
+
+#: admin/partials/admin-display.php:16
+msgid "Beautiful Taxonomy Filters"
+msgstr "Beautiful Taxonomy Filters"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:400
+msgid "Disable the filter info modules post count:"
+msgstr "Désactiver les modules d’info de nombre de publications sur le filtre :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:400
+msgid "Removes the post count in the filter info module for the active filter."
+msgstr "Retirer le nombre de publications du module d’info de filtre du filtre actif."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:391
+msgid "Disable the active filters heading:"
+msgstr "Désactiver le titre des filtres activés :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:391
+msgid "Removes the heading for the filter info module."
+msgstr "Retire le titre pour le module d’info du filtre."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:382
+#: widgets/beautiful-taxonomy-filters-widget.php:84
+msgid "Dropdown deselect/default behaviour:"
+msgstr "Désélectionner/comportement par défaut de liste déroulante :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:382
+msgid "Either an Show all option at the top of the dropdown or, used with Select2, a placeholder text along with the ability to deselect the current term."
+msgstr "Soit une option « Tout afficher » en haut de la liste déroulante, soit, utilisé avec Select2, un texte indicatif avec la possibilité de désélectionner le terme courant."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:373
+msgid "Show term description:"
+msgstr "Afficher la description du terme :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:373
+msgid "Displays the terms description next to the term name in the dropdowns."
+msgstr "Affiche la description des termes à côté du nom du terme dans les menus déroulants."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:364
+msgid "Show post count next to term name:"
+msgstr "Afficher le nombre de publications à côté du nom du terme :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:364
+msgid "Displays how many posts are in each term next to the terms name."
+msgstr "Affiche le nombre de publications dans chaque terme à côté du nom du terme."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:355
+msgid "Hide empty terms in the dropdowns:"
+msgstr "Masquer les termes vides dans les menus déroulants :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:355
+msgid "Hides terms with no posts to them."
+msgstr "Masque les termes sans publication les contenant."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:346
+msgid "Enable a \"Clear all\" link:"
+msgstr "Activer un lien « Tout effacer » :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:346
+msgid "Adds a link next to the submit button that clears all current filters."
+msgstr "Ajoute un lien à côté du bouton « Envoyer » qui efface tous les filtres courants."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:328
+#: admin/class-beautiful-taxonomy-filters-admin.php:337
+msgid "Disable the select2 library:"
+msgstr "Désactiver la bibliothèque select2 :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:328
+#: admin/class-beautiful-taxonomy-filters-admin.php:337
+msgid "Disables the use of Select2 for improved dropdowns. Regular select elements will be used instead."
+msgstr "Désactive l’utilisation de Select2 pour améliorer les listes déroulantes. Les éléments de sélection réguliers seront utilisés à la place."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:300
+msgid "Custom CSS Styling:"
+msgstr "Style CSS personnalisé :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:300
+msgid "Add your overriding styles directly to this textarea to do small tweaks of the predefined styles. Not recommended for major changes."
+msgstr "Ajoutez vos styles prédéfinis directement dans cette zone de texte pour faire de petits ajustements des styles prédéfinis. Déconseillé pour les modifications majeures."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:291
+msgid "Styling:"
+msgstr "Style :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:291
+msgid "Predefined styles for your site inspired by Google Material Design."
+msgstr "Styles prédéfinis pour votre site inspirés par Google Material Design."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:282
+msgid "Automagically insert the modules in the archives:"
+msgstr "Insérez automatiquement les modules dans les archives :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:282
+msgid "Experimental feature!  Attempts to automagically insert the modules in your archive. If the placement isn't what you want you'll have to use one of the other methods."
+msgstr "Fonctionnalité expérimentale !  Tente d’insérer automatiquement les modules dans votre archive. Si le placement n’est pas ce que vous voulez, vous devrez utiliser une des autres méthodes."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:273
+msgid "Exclude these taxonomies:"
+msgstr "Exclure ces taxonomies :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:273
+msgid "Exclude taxonomies that is connected to your custom post types but should not be used for filtering."
+msgstr "Exclure les taxonomies qui sont liées à vos types de publication personnalisés mais qui ne doivent pas être utilisées pour le filtrage."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:264
+msgid "Activate for these post types:"
+msgstr "Activer pour ces types de contenu :"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:264
+msgid "Only these post types will have custom rewrite rules added to them and the filter module will only appear for these archives."
+msgstr "Seuls ces types de publications auront des règles de réécriture personnalisées ajoutées et le module de filtrage apparaîtra uniquement pour ces archives."
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:252
+msgid "Advanced settings"
+msgstr "Réglages avancés"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:244
+msgid "Basic Setup"
+msgstr "Installation de base"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:216
+msgid "Taxonomy Filters"
+msgstr "Filtres de taxonomie"
+
+#: admin/class-beautiful-taxonomy-filters-admin.php:112
+#: admin/class-beautiful-taxonomy-filters-admin.php:139
+msgid "Beautiful Taxonomy Filters has had a change in the settings structure. Please head over to the <a href=\"%s\">advanced tab</a> to make sure everything is correct."
+msgstr "Beautiful Taxonomy Filters a eu une modification dans la structure des réglages. Veuillez vous rendre à la page <a href=\"%s\"> onglet avancé</a> pour vous assurer que tout est correct."

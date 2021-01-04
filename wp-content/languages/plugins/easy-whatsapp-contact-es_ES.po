@@ -1,0 +1,277 @@
+# Translation of Plugins - Easy Contact Chat - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Easy Contact Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-17 16:10:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Easy Contact Chat - Stable (latest release)\n"
+
+#: includes/wact-admin.php:417
+msgid "Predefined buttons"
+msgstr "Botones predefinidos"
+
+#: includes/wact-admin.php:398
+msgid "Custom button"
+msgstr "Botón personalizado"
+
+#: includes/wact-admin.php:387
+msgid "Button height"
+msgstr "Altura del botón"
+
+#: includes/wact-admin.php:260
+msgid "Icon height"
+msgstr "Altura del icono"
+
+#: includes/wact-admin.php:239
+msgid "Predefined icons"
+msgstr "Iconos predefinidos"
+
+#: includes/wact-admin.php:228 includes/wact-admin.php:406
+msgid "Upload"
+msgstr "Subir"
+
+#: includes/wact-admin.php:220
+msgid "Custom icon"
+msgstr "Icono personalizado"
+
+#: includes/wact-admin.php:183
+msgid "Settings saved successfully"
+msgstr "Ajustes guardados correctamente"
+
+#. Plugin Name of the plugin
+msgid "Easy Contact Chat"
+msgstr "Easy Contact Chat"
+
+#: includes/wact-admin.php:337
+msgid "Margin top/bottom"
+msgstr "Margen superior/inferior"
+
+#: includes/wact-admin.php:322
+msgid "Top left"
+msgstr "Superior izquierda"
+
+#: includes/wact-admin.php:321
+msgid "Top right"
+msgstr "Superior derecha"
+
+#: includes/wact-admin.php:287
+msgid "You can use the shortcode <strong>[wact_icon]</strong> wherever you want or activate it globally in the following pages"
+msgstr "Puedes usar el shortcode <strong>[wact_icon]</strong> donde quieras o activarlo globalmente en las siguiente páginas"
+
+#: includes/wact-admin.php:279
+msgid "Starting message when the chat is open"
+msgstr "Mensaje de inicio cuando se abre el chat"
+
+#: includes/wact-admin.php:276
+msgid "Chat welcome message"
+msgstr "Mensaje de bienvenida del chat"
+
+#: includes/wact-admin.php:270
+msgid "Shows a chat to write a message when the icon is pressed"
+msgstr "Muestra una ventana de chat cuando se pulsa el icono"
+
+#: includes/wact-admin.php:269
+msgid "Show"
+msgstr "Mostrar"
+
+#: includes/wact-admin.php:267
+msgid "Chat window"
+msgstr "Ventana de chat"
+
+#: includes/wact-admin.php:44 includes/wact-floating-icon.php:63
+msgid "Hello! Do you have any question?"
+msgstr "¡Hola! ¿Tienes alguna pregunta?"
+
+#: includes/wact-admin.php:382
+msgid "Just write the shortcode <strong>[wact_contact]</strong> wherever you want the contact button"
+msgstr "Simplemente escribe el shortcode <strong>[wact_contact]</strong> donde quieras que aparezca el botón de contacto"
+
+#: includes/wact-admin.php:380
+msgid "Usage"
+msgstr "Uso"
+
+#: includes/wact-admin.php:376
+msgid "Shortcode button"
+msgstr "Botón del shortcode"
+
+#: includes/wact-admin.php:361
+msgid "Animation"
+msgstr "Animación"
+
+#: includes/wact-admin.php:356
+msgid "Seconds before show icon"
+msgstr "Segundos antes de mostrar el icono"
+
+#: includes/wact-admin.php:355
+msgid "Seconds"
+msgstr "Segundos"
+
+#: includes/wact-admin.php:353
+msgid "Delay"
+msgstr "Retraso"
+
+#: includes/wact-admin.php:348
+msgid "Modify this value if the icon overlaps other element"
+msgstr "Modifica este valor si el icono se superpone a otro elemento"
+
+#: includes/wact-admin.php:345
+msgid "Z-index"
+msgstr "Z-index"
+
+#: includes/wact-admin.php:340
+msgid "Distance between icon and top or bottom of the screen"
+msgstr "Distancia entre el icono y la parte inferior de la pantalla"
+
+#: includes/wact-admin.php:332
+msgid "Distance between icon and left or right side of the screen"
+msgstr "Distancia entre el icono y la parte izquierda o derecha de la pantalla"
+
+#: includes/wact-admin.php:329
+msgid "Margin sides"
+msgstr "Margen lateral"
+
+#: includes/wact-admin.php:320
+msgid "Bottom left"
+msgstr "Abajo izquierda"
+
+#: includes/wact-admin.php:319
+msgid "Bottom right"
+msgstr "Abajo derecha"
+
+#: includes/wact-admin.php:316
+msgid "Position"
+msgstr "Posición"
+
+#: includes/wact-admin.php:309
+msgid "Only desktop"
+msgstr "Sólo en escritorio"
+
+#: includes/wact-admin.php:308
+msgid "Only mobile devices"
+msgstr "Sólo en dispositivos móviles"
+
+#: includes/wact-admin.php:307
+msgid "All devices"
+msgstr "Todos los dispositivos"
+
+#: includes/wact-admin.php:304
+msgid "Devices"
+msgstr "Dispositivos"
+
+#: includes/wact-admin.php:299
+msgid "Woocommerce account"
+msgstr "Cuenta de Woocomerce"
+
+#: includes/wact-admin.php:298
+msgid "Woocommerce checkout"
+msgstr "Pedido de Woocommerce"
+
+#: includes/wact-admin.php:297
+msgid "Woocommerce cart"
+msgstr "Carrito de Woocommerce"
+
+#: includes/wact-admin.php:296
+msgid "Woocommerce product"
+msgstr "Producto de Woocommerce"
+
+#: includes/wact-admin.php:295
+msgid "404"
+msgstr "404"
+
+#: includes/wact-admin.php:294
+msgid "Search"
+msgstr "Búsqueda"
+
+#: includes/wact-admin.php:293
+msgid "Archives"
+msgstr "Archivos"
+
+#: includes/wact-admin.php:292
+msgid "Page"
+msgstr "Páginas"
+
+#: includes/wact-admin.php:291
+msgid "Single post"
+msgstr "Entrada individual"
+
+#: includes/wact-admin.php:290
+msgid "Front page"
+msgstr "Página de inicio"
+
+#: includes/wact-admin.php:284
+msgid "Show in"
+msgstr "Mostrar en"
+
+#: includes/wact-admin.php:214
+msgid "Floating icon"
+msgstr "Icono flotante"
+
+#: includes/wact-admin.php:207 includes/wact-admin.php:372
+#: includes/wact-admin.php:431
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: includes/wact-admin.php:201
+msgid "Optional. A predefined text to start the chat. Empty if you do not want to show it."
+msgstr "Opcional. Texto por defecto para empezar la conversación. Déjalo vacío si no quieres mostrarlo."
+
+#: includes/wact-admin.php:198
+msgid "Predefined message"
+msgstr "Mensaje por defecto"
+
+#: includes/wact-admin.php:193
+msgid "Your phone number with <strong>international prefix</strong>. Example: +33 6770084144. <a href=\"https://countrycode.org/\" target=\"_blank\">Click here to see the list</a>"
+msgstr "Tu número de teléfono con <strong>prefijo internacional</strong>. Ejemplo: +34 6770084144. <a href=\"https://countrycode.org/\" target=\"_blank\">Pulsa aquí si quieres ver la lista completa de prefijos.</a>"
+
+#: includes/wact-admin.php:190
+msgid "Your phone number"
+msgstr "Tu número de teléfono"
+
+#: includes/wact-admin.php:186
+msgid "General"
+msgstr "General"
+
+#: includes/wact-admin.php:19
+msgid "Contact with us"
+msgstr "Contactar"
+
+#: includes/wact-admin.php:15
+msgid "Rotate"
+msgstr "Rotar"
+
+#: includes/wact-admin.php:14
+msgid "Scale"
+msgstr "Escalar"
+
+#: includes/wact-admin.php:13
+msgid "Fade in"
+msgstr "Desvanecer"
+
+#: includes/wact-admin.php:12
+msgid "None"
+msgstr "Ninguna"
+
+#: easy_whatsapp_contact.php:32
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Author URI of the plugin
+msgid "http://squaresfere.com"
+msgstr "http://squaresfere.com"
+
+#. Author of the plugin
+msgid "Squaresfere"
+msgstr "Squaresfere"
+
+#. Description of the plugin
+msgid "This plugin displays a WhatsApp contact chat. The perfect solution for your ecommerce or blog."
+msgstr "Este plugin muestra un chat de contacto de WhatsApp. La solución perfecta para tu comercio electrónico o blog."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/easy-whatsapp-contact"
+msgstr "https://es.wordpress.org/extend/plugins/easy-whatsapp-contact"

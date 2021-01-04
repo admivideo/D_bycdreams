@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: FULL DEMO 01 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://desarrollo.bycdreams.com
+Data file = /var/www/vhosts/bycdreams.com/desarrollo.bycdreams.com/wp-content/plugins/homey-core/demos/homey01/content.xml
+Widget file = /var/www/vhosts/bycdreams.com/desarrollo.bycdreams.com/wp-content/plugins/homey-core/demos/homey01/widgets.json
+Customizer file = not defined!
+Redux files:
+homey_options -> /var/www/vhosts/bycdreams.com/desarrollo.bycdreams.com/wp-content/plugins/homey-core/demos/homey01/redux.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Homey: Latest Posts - Latest Posts - Imported
+Buscar - Search - Imported
+Homey: Latest Comments - Latest Comments - Imported
+Homey: Image Banner 300x250 - Image Ad - Imported
+
+Page Sidebar : 
+
+Menú de navegación - Company - Widget already exists
+Menú de navegación - Help - Widget already exists
+
+Alojamientos Sidebar : 
+
+Formulario de suscripción de MailChimp - Newsletter Sign Up! - Imported
+Homey: Listing list - Featured - Imported
+Homey: Taxonomies Cards - Explore - Imported
+Homey: Listing Card - Slider - Widget already exists
+Homey: Reviews - Latest Reviews - Imported
+Homey: Latest Posts - Latest Posts - Imported
+Homey: Image Banner 300x250 - No Title - Imported
+
+Área 1 de pie de página : 
+
+Homey: About Site - No Title - Imported
+
+Área 2 de pie de página : 
+
+Homey: Taxonomies List - Explore - Imported
+
+Área 3 de pie de página : 
+
+Menú de navegación - Company - Imported
+
+Área 4 de pie de página : 
+
+Homey: Contact Us - Contact Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: homey_options finished successfully!
+
+---pt-ocdi/after_import---
+

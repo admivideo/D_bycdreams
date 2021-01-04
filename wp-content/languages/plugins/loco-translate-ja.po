@@ -1,0 +1,1132 @@
+# Translation of Plugins - Loco Translate - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Loco Translate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-08 13:32:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Loco Translate - Stable (latest release)\n"
+
+#: tpl/admin/common/inc-fsconn.php:27
+msgid "Read only"
+msgstr "読み取り専用"
+
+#: tpl/admin/help/side-bar.php:9
+msgid "Official plugin page"
+msgstr "公式プラグインページ"
+
+#: tpl/admin/help/side-bar.php:12
+msgid "Help and tutorials"
+msgstr "ヘルプとチュートリアル"
+
+#: src/js/Strings.php:145
+msgctxt "Editor"
+msgid "Translated"
+msgstr "翻訳済み"
+
+#: src/js/Strings.php:142
+msgctxt "Editor"
+msgid "Untranslated"
+msgstr "未翻訳"
+
+#: tpl/admin/bundle/locale.php:66 tpl/admin/bundle/inc-po-table.php:51
+msgid "View"
+msgstr "表示"
+
+#: tpl/admin/file/info-pot.php:14 tpl/admin/file/info-po.php:19
+#: tpl/admin/file/info-mo.php:18
+msgid "File size"
+msgstr "ファイルサイズ"
+
+#: tpl/admin/root.php:12
+msgid "The language of this site is %s."
+msgstr "このサイトの言語は %s です。"
+
+#: tpl/admin/list/locales.php:25
+msgid "Site language"
+msgstr "サイトの言語"
+
+#: tpl/admin/file/info.php:107
+msgid "WordPress updates"
+msgstr "WordPress アップデート"
+
+#: tpl/admin/file/diff.php:16
+msgctxt "Button label for a next revision"
+msgid "Next"
+msgstr "次へ"
+
+#: tpl/admin/file/diff.php:13
+msgctxt "Button label for a previous revision"
+msgid "Previous"
+msgstr "前へ"
+
+#: tpl/admin/file/diff.php:6
+msgctxt "revision date short format"
+msgid "j M @ H:i"
+msgstr "n月j日 @ H:i"
+
+#: tpl/admin/root.php:14
+msgid "Your admin language is %s."
+msgstr "管理者の言語は %s です。"
+
+#: src/mvc/AdminRouter.php:59
+msgid "Languages"
+msgstr "言語"
+
+#: tpl/admin/file/diff.php:30 src/admin/file/BaseController.php:108
+msgid "Restore"
+msgstr "復元"
+
+#: src/admin/config/SettingsController.php:66
+msgid "Allow"
+msgstr "許可"
+
+#: tpl/admin/common/inc-fsconn.php:16 tpl/admin/common/inc-fsconn.php:41
+#: tpl/admin/errors/no-backups.php:22 tpl/admin/config/prefs.php:45
+#: tpl/admin/config/settings.php:177 tpl/admin/config/apis.php:122
+#: src/admin/bundle/LocaleController.php:130
+#: src/admin/file/EditController.php:196 src/data/Settings.php:171
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: tpl/admin/file/info.php:113 src/admin/init/InitPoController.php:316
+msgid "What's this?"
+msgstr "これは何ですか?"
+
+#. Translators: Where %s is the size of a file
+#: tpl/admin/init/init-pot.php:18
+msgid "largest is %s"
+msgstr "最大は%sです"
+
+#: tpl/admin/config/settings.php:82
+msgid "Maximum line length (zero disables wrapping)"
+msgstr "最大行の長さ（0は折り返しを無効にする）"
+
+#: src/admin/bundle/ConfController.php:95
+msgid "Child theme declares the same Text Domain as the parent theme"
+msgstr "子テーマは、親テーマと同じテキストドメインを宣言します。"
+
+#. Translators: General plural category not covered by other forms
+#: src/Locale.php:419
+msgctxt "Plural category"
+msgid "Other"
+msgstr "その他"
+
+#. Translators: Plural category used in some multi-plural languages
+#: src/Locale.php:417
+msgctxt "Plural category"
+msgid "Many"
+msgstr "多くの"
+
+#. Translators: Plural category used in some multi-plural languages
+#: src/Locale.php:415
+msgctxt "Plural category"
+msgid "Few"
+msgstr "いくつかの"
+
+#. Translators: Plural category used in some multi-plural languages
+#: src/Locale.php:413
+msgctxt "Plural category"
+msgid "Two"
+msgstr "2"
+
+#. Translators: Plural category for singular quantity
+#: src/Locale.php:411
+msgctxt "Plural category"
+msgid "One"
+msgstr "1"
+
+#. Translators: Plural category for languages that have no plurals
+#: src/Locale.php:401
+msgctxt "Plural category"
+msgid "All forms"
+msgstr "すべてのフォームをみる"
+
+#: tpl/admin/config/version.php:28
+msgid "You're running a development snapshot of Loco Translate"
+msgstr "Loco Translate の開発スナップショットを実行しています"
+
+#: tpl/admin/file/info-pot.php:24
+msgid "1 word"
+msgid_plural "%s words"
+msgstr[0] "%s単語"
+
+#: src/admin/RootController.php:84
+msgid "Welcome to Loco Translate"
+msgstr "Loco Translate へようこそ"
+
+#: tpl/admin/list/inc-table.php:20
+msgid "Sets"
+msgstr "セット"
+
+#: tpl/admin/bundle/locale.php:32 tpl/admin/list/inc-table.php:11
+msgid "Bundle name"
+msgstr "バンドル名"
+
+#: tpl/admin/init/init-po.php:136
+msgid "Template options"
+msgstr "テンプレート設定"
+
+#: tpl/admin/init/init-po.php:93
+msgid "Choose a location"
+msgstr "場所を選択"
+
+#: tpl/admin/init/init-po.php:79
+msgid "Custom language"
+msgstr "言語を選択"
+
+#: tpl/admin/init/init-po.php:48
+msgid "Choose a language"
+msgstr "言語を選択"
+
+#: tpl/admin/file/info.php:14
+msgid "File doesn't exist"
+msgstr "ファイルが存在しません"
+
+#: tpl/admin/config/version.php:17
+msgid "Upgrade to %s"
+msgstr "%s へアップグレード"
+
+#: tpl/admin/config/version.php:11 tpl/admin/config/version.php:25
+#: tpl/admin/config/version.php:35
+msgid "Version %s"
+msgstr "バージョン %s"
+
+#: tpl/admin/errors/file-missing.php:11
+msgid "File not found"
+msgstr "ファイルが見つかりません"
+
+#: tpl/admin/errors/no-tokenizer.php:11
+msgid "About the Tokenizer"
+msgstr "Tokenizer について"
+
+#: tpl/admin/bundle/setup/conf.php:28 tpl/admin/bundle/setup/conf.php:35
+#: tpl/admin/bundle/setup/conf.php:56
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tpl/admin/bundle/locale.php:72 tpl/admin/bundle/inc-po-table.php:57
+msgid "Copy"
+msgstr "コピー"
+
+#: tpl/admin/bundle/locale.php:63 tpl/admin/bundle/inc-po-table.php:48
+msgid "Edit"
+msgstr "編集"
+
+#: tpl/admin/bundle/locale.php:75 tpl/admin/bundle/inc-po-table.php:63
+#: tpl/admin/file/diff.php:31 src/admin/file/BaseController.php:110
+msgid "Delete"
+msgstr "削除"
+
+#: tpl/admin/bundle/locale.php:49 tpl/admin/bundle/inc-po-table.php:28
+msgid "Folder"
+msgstr "フォルダー"
+
+#: src/admin/bundle/BaseController.php:95
+#: src/admin/bundle/LocaleController.php:34
+#: src/admin/bundle/ViewController.php:25
+#: src/admin/init/InitPoController.php:26
+#: src/admin/init/InitPotController.php:25 src/admin/RootController.php:12
+#: src/admin/config/BaseController.php:41
+#: src/admin/list/LocalesController.php:24 src/admin/list/BaseController.php:50
+#: src/admin/file/ViewController.php:26 src/admin/file/InfoController.php:26
+#: src/admin/file/EditController.php:27
+msgid "Overview"
+msgstr "概要"
+
+#: src/package/Core.php:29
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: tpl/admin/file/delete.php:30
+msgid "Delete Permanently"
+msgstr "完全に削除する"
+
+#: src/mvc/AdminRouter.php:42
+msgid "Home"
+msgstr "ホーム"
+
+#: src/admin/file/BaseController.php:106
+msgid "Source"
+msgstr "ソース"
+
+#: tpl/admin/bundle/inc-po-table.php:13
+msgid "Language"
+msgstr "言語"
+
+#: src/mvc/AdminRouter.php:237
+msgid "Page not found"
+msgstr "ページが見つかりませんでした"
+
+#: src/admin/bundle/LocaleController.php:141 src/admin/Navigation.php:41
+#: src/mvc/AdminRouter.php:44
+msgid "Themes"
+msgstr "テーマ"
+
+#. Translators: button for removing a string when manually editing a POT file
+#: tpl/admin/file/edit-po.php:45 tpl/admin/file/edit-po.php:65
+#: src/admin/file/EditController.php:224
+msgid "Help"
+msgstr "ヘルプ"
+
+#: src/error/Success.php:19 src/js/Strings.php:107
+msgid "OK"
+msgstr "OK"
+
+#: src/admin/bundle/LocaleController.php:146 src/admin/Navigation.php:44
+#: src/mvc/AdminRouter.php:49
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: src/mvc/FileParams.php:141
+msgid "Y/m/d"
+msgstr "Y年n月j日"
+
+#: tpl/admin/root.php:54 src/admin/bundle/LocaleController.php:147
+msgid "See all plugins"
+msgstr "すべてのプラグインをみる"
+
+#: tpl/admin/root.php:35
+msgid "Active theme:"
+msgstr "有効なテーマ: "
+
+#: tpl/admin/help/tab-config-apis.php:9 tpl/admin/help/tab-config.php:9
+msgid "Full documentation"
+msgstr "完全ドキュメンテーション"
+
+#: tpl/admin/bundle/locale.php:69 tpl/admin/bundle/inc-po-table.php:54
+msgid "Info"
+msgstr "情報"
+
+#: tpl/admin/bundle/conf.php:146
+msgid "XML"
+msgstr "XML"
+
+#: tpl/admin/bundle/conf.php:144
+msgid "Parent theme"
+msgstr "親テーマ"
+
+#: tpl/admin/bundle/conf.php:41 tpl/admin/list/inc-table.php:14
+msgid "Text domain"
+msgstr "テキストドメイン"
+
+#: tpl/admin/bundle/conf.php:29
+msgid "Project name"
+msgstr "プロジェクト名"
+
+#. translators: relative time when something happened in the last 30 seconds
+#: src/mvc/FileParams.php:145
+msgid "Just now"
+msgstr "たった今"
+
+#: src/admin/config/VersionController.php:13
+#: src/admin/config/BaseController.php:21
+msgid "Version"
+msgstr "バージョン"
+
+#: tpl/admin/bundle/conf.php:89 tpl/admin/bundle/conf.php:108
+msgid "Exclude"
+msgstr "除外"
+
+#: src/admin/bundle/BaseController.php:100
+#: src/admin/config/BaseController.php:24
+#: src/admin/config/DebugController.php:12 src/error/Debug.php:19
+msgid "Debug"
+msgstr "デバッグ"
+
+#: src/admin/bundle/BaseController.php:96
+msgid "Setup"
+msgstr "セットアップ"
+
+#. translators: home screen title where %s is the version number
+#: src/admin/RootController.php:23
+msgid "Loco Translate %s"
+msgstr "Loco Translate %s"
+
+#. Translators: Button that saves translations to disk
+#: src/admin/file/EditController.php:226
+msgctxt "Editor"
+msgid "Save"
+msgstr "保存"
+
+#. Translators: Button that runs in-editor sync/operation
+#: src/admin/file/EditController.php:228
+msgctxt "Editor"
+msgid "Sync"
+msgstr "同期"
+
+#. Translators: button for removing a string when manually editing a POT file
+#: src/admin/file/EditController.php:223
+msgctxt "Editor"
+msgid "Remove"
+msgstr "削除"
+
+#. Translators: button for adding a new string when manually editing a POT file
+#: src/admin/file/EditController.php:221
+msgctxt "Editor"
+msgid "Add"
+msgstr "追加"
+
+#: src/admin/file/DeleteController.php:76
+#: src/admin/file/DeleteController.php:94
+msgid "Delete %s"
+msgstr "%s を削除"
+
+#: tpl/admin/bundle/locale.php:43 tpl/admin/bundle/inc-po-table.php:22
+#: src/admin/file/BaseController.php:107
+msgid "File info"
+msgstr "ファイル情報"
+
+#: src/admin/config/SettingsController.php:51
+msgid "Super Admin"
+msgstr "特権管理者"
+
+#: tpl/admin/help/tab-config.php:2 src/admin/config/SettingsController.php:79
+#: src/admin/config/VersionController.php:22
+#: src/admin/config/PrefsController.php:42
+#: src/admin/config/ApisController.php:59 src/mvc/AdminRouter.php:66
+msgid "Plugin settings"
+msgstr "プラグイン設定"
+
+#: src/admin/config/BaseController.php:19
+#: src/admin/config/PrefsController.php:13 src/mvc/AdminRouter.php:71
+msgid "User options"
+msgstr "ユーザー設定"
+
+#: src/admin/config/BaseController.php:18
+msgid "Site options"
+msgstr "サイト設定"
+
+#: tpl/admin/init/init-pot.php:40 src/admin/bundle/ViewController.php:127
+#: src/admin/init/InitPoController.php:212
+msgid "Create template"
+msgstr "テンプレートを作成"
+
+#: src/admin/bundle/ViewController.php:119
+msgid "Edit template"
+msgstr "テンプレートを編集"
+
+#: src/admin/bundle/ViewController.php:96
+#: src/admin/init/InitPoController.php:16
+#: src/admin/init/InitPoController.php:111
+#: src/admin/file/BaseController.php:129
+msgid "New language"
+msgstr "新しい言語"
+
+#. translators: used when user name of web server process is unknown
+#: src/compat/PosixExtension.php:109
+msgid "the web server"
+msgstr "ウェブサーバー"
+
+#: src/admin/init/InitPotController.php:116
+msgid "New template file"
+msgstr "新しいテンプレートファイル"
+
+#: src/admin/list/ThemesController.php:14
+msgid "Translate themes"
+msgstr "翻訳テーマ"
+
+#: src/admin/list/PluginsController.php:12
+msgid "Translate plugins"
+msgstr "翻訳プラグイン"
+
+#: tpl/admin/file/edit-po.php:42 src/hooks/AdminHooks.php:103
+msgid "Translate"
+msgstr "翻訳"
+
+#. Translators: Refers to translation files in an alternative location that
+#. isn't Author, System or Custom.
+#: src/fs/LocaleDirectory.php:72
+msgctxt "File location"
+msgid "Other"
+msgstr "その他"
+
+#. Translators: Refers to translation files in Loco's custom/protected
+#. directory
+#: src/fs/LocaleDirectory.php:69
+msgctxt "File location"
+msgid "Custom"
+msgstr "カスタム"
+
+#. Translators: Refers to system-installed translation files - i.e. those under
+#. WP_LANG_DIR
+#: src/fs/LocaleDirectory.php:66
+msgctxt "File location"
+msgid "System"
+msgstr "システム"
+
+#. Translators: Refers to bundled plugin or theme translation files - i.e.
+#. those supplied by the author
+#: src/fs/LocaleDirectory.php:63
+msgctxt "File location"
+msgid "Author"
+msgstr "作者"
+
+#: tpl/admin/bundle/setup/conf.php:20 src/mvc/AdminRouter.php:54
+msgid "WordPress"
+msgstr "WordPress"
+
+#: src/mvc/AdminController.php:116
+msgid "Loco Translate is powered by"
+msgstr "Loco Translate is powered by"
+
+#: src/mvc/AdminController.php:53
+msgid "Help & support"
+msgstr "ヘルプ & サポート"
+
+#: src/js/Strings.php:133
+msgctxt "Editor"
+msgid "Comments"
+msgstr "コメント"
+
+#: src/fs/FileWriter.php:249
+msgid "Failed to save file"
+msgstr "ファイルの保存に失敗しました"
+
+#: src/fs/FileWriter.php:286
+msgid "Failed to create directory"
+msgstr "ディレクトリの作成に失敗しました"
+
+#: src/package/Core.php:79 src/admin/bundle/LocaleController.php:136
+msgid "WordPress Core"
+msgstr "WordPress コア"
+
+#: src/package/Core.php:26
+msgid "WordPress core"
+msgstr "WordPress コア"
+
+#: tpl/admin/config/settings.php:102
+msgid "POT template files"
+msgstr "POT テンプレートファイル"
+
+#: tpl/admin/init/init-prompt.php:27 tpl/admin/init/init-pot.php:42
+msgid "About templates"
+msgstr "テンプレートについて"
+
+#: tpl/admin/init/init-po.php:67
+msgid "Available languages"
+msgstr "利用可能な言語"
+
+#: tpl/admin/init/init-po.php:61 src/admin/bundle/LocaleController.php:116
+#: src/admin/list/LocalesController.php:35
+msgid "Installed languages"
+msgstr "インストール済みの言語"
+
+#: tpl/admin/file/info-po.php:25 tpl/admin/file/info-mo.php:24
+msgid "Last translation"
+msgstr "最終翻訳"
+
+#: tpl/admin/root.php:39 src/admin/bundle/LocaleController.php:142
+msgid "See all themes"
+msgstr "すべてのテーマをみる"
+
+#: tpl/admin/init/init-prompt.php:10
+msgid "Template missing"
+msgstr "テンプレートがありません"
+
+#: tpl/admin/bundle/conf.php:100
+msgid "Source file paths"
+msgstr "ソースファイルのパス"
+
+#: src/error/Exception.php:149 src/js/Strings.php:98
+msgid "Error"
+msgstr "エラー"
+
+#: src/ajax/SaveController.php:118
+msgid "POT file saved"
+msgstr "POT ファイルを保存しました"
+
+#: src/ajax/XgettextController.php:62
+msgid "Template file created"
+msgstr "テンプレートファイルを作成しました"
+
+#: tpl/admin/init/init-po.php:55
+msgid "WordPress language"
+msgstr "WordPress の言語"
+
+#: tpl/admin/init/init-po.php:60
+msgid "No language selected"
+msgstr "言語が選択されていません"
+
+#: src/admin/init/InitPotController.php:16
+msgid "New template"
+msgstr "新しいテンプレート"
+
+#: src/admin/init/InitPoController.php:227
+msgid "Skip template"
+msgstr "テンプレートをスキップ"
+
+#: tpl/admin/init/init-prompt.php:18
+msgid "This bundle doesn't define a translations template file"
+msgstr "このバンドルは翻訳テンプレートファイルを定義していません"
+
+#. Translators: Where %s is the size of a file
+#: tpl/admin/init/init-pot.php:16
+msgid "%s on disk"
+msgstr "ディスク上の%s"
+
+#: tpl/admin/init/init-po.php:147
+msgid "Copy target translations from \"%s\""
+msgstr "\"%s\"からターゲットの翻訳をコピーする"
+
+#: tpl/admin/root.php:23
+msgid "Recently updated:"
+msgstr "更新日時: "
+
+#: tpl/admin/init/init-pot.php:30
+msgid "Strings will be extracted to:"
+msgstr "単語が抽出できませんでした: "
+
+#: tpl/admin/init/init-po.php:173
+msgid "Start translating"
+msgstr "翻訳を開始する"
+
+#: tpl/admin/file/info.php:69
+msgid "Directory is writeable"
+msgstr "ディレクトリが書き込み禁止です"
+
+#: tpl/admin/file/info.php:55
+msgid "Directory doesn't exist"
+msgstr "ディレクトリが見つかりません"
+
+#. Translators: Where %s is the type of file, e.g. "po"
+#: tpl/admin/file/info.php:24
+msgid "%s file is writeable"
+msgstr "%sのファイルに書き込むことはできません"
+
+#: tpl/admin/file/info-pot.php:20
+msgid "Last extracted"
+msgstr "最終翻訳"
+
+#: tpl/admin/file/info-po.php:79
+msgid "Missing template"
+msgstr "テンプレートがありません"
+
+#: tpl/admin/file/info-po.php:66
+msgid "Out of sync with template"
+msgstr "テンプレートと非同期"
+
+#: tpl/admin/file/info-po.php:55
+msgid "In sync with template"
+msgstr "テンプレートに同期"
+
+#: tpl/admin/file/info-other.php:11
+msgid "Unexpected file type"
+msgstr "不明なファイルタイプ"
+
+#: tpl/admin/file/info-mo.php:38
+msgid "PO file missing"
+msgstr "PO ファイルがありません"
+
+#: tpl/admin/file/info-mo.php:27
+msgid "Compiled translations"
+msgstr "MO ファイルがコンパイル済みの翻訳"
+
+#: tpl/admin/file/delete.php:12
+msgid "Confirm delete"
+msgstr "完全に削除する"
+
+#: tpl/admin/common/inc-fsconn.php:60
+msgid "Connect"
+msgstr "接続"
+
+#: src/package/Header.php:83
+msgid "Visit official site"
+msgstr "公式サイトをご覧ください"
+
+#: src/package/Plugin.php:208
+msgid "Plugin not found: %s"
+msgstr "プラグインが見つかりません: %s"
+
+#: tpl/admin/root.php:47
+msgid "Running plugins:"
+msgstr "プラグインの実行: "
+
+#: tpl/admin/init/init-pot.php:12
+msgid "Source files to scan:"
+msgstr "スキャンするソースファイル: "
+
+#: tpl/admin/errors/file-isdir.php:11
+msgid "File is a directory"
+msgstr "ファイルはディレクトリです"
+
+#: tpl/admin/file/info-po.php:42
+msgid "Binary file missing"
+msgstr "バイナリファイルが存在しません"
+
+#: src/admin/file/DeleteController.php:57 src/admin/file/DiffController.php:61
+msgid "File deleted"
+msgid_plural "%u files deleted"
+msgstr[0] "%u個のファイルを削除しました。"
+
+#: src/js/Strings.php:139
+msgctxt "Editor"
+msgid "Plural"
+msgstr "複数形"
+
+#: tpl/admin/bundle/setup/inc-nav.php:22
+msgid "Import config from XML"
+msgstr "XML ファイルから設定をインポート"
+
+#: tpl/admin/bundle/setup/conf.php:55
+msgid "Load config"
+msgstr "設定を読み込む"
+
+#: tpl/admin/bundle/setup/conf.php:27
+msgid "Find config"
+msgstr "設定を探す"
+
+#: tpl/admin/bundle/view.php:52
+msgid "unconfigured"
+msgstr "未設定"
+
+#: src/error/Warning.php:19 src/js/Strings.php:101
+msgid "Warning"
+msgstr "警告"
+
+#: src/data/Permissions.php:157
+msgctxt "User role"
+msgid "Translator"
+msgstr "翻訳者"
+
+#: src/error/XmlParseException.php:8
+msgid "XML parse error"
+msgstr "XML 解析エラー"
+
+#: src/js/Strings.php:163
+msgctxt "Editor"
+msgid "Translation"
+msgstr "翻訳"
+
+#. translators: Page title for theme translations
+#: src/mvc/AdminRouter.php:46
+msgid "Theme translations &lsaquo; Loco"
+msgstr "テーマ翻訳 &lsaquo; Loco"
+
+#: src/js/Strings.php:136
+msgctxt "Editor"
+msgid "Single"
+msgstr "単数形"
+
+#: src/js/Strings.php:130
+msgctxt "Editor"
+msgid "Context"
+msgstr "コンテキスト"
+
+#. translators: where %s is a plugin or theme
+#: src/admin/bundle/ConfController.php:16
+msgid "Configure %s"
+msgstr "%s を設定"
+
+#: src/admin/bundle/BaseController.php:53
+msgid "Configuration reset"
+msgstr "設定のリセット"
+
+#: src/admin/bundle/BaseController.php:38
+msgid "Configuration saved"
+msgstr "設定を保存しました"
+
+#: tpl/admin/bundle/alias.php:17
+msgid "Go to WordPress Core"
+msgstr "WordPress コアへ移動"
+
+#: tpl/admin/bundle/alias.php:11
+msgid "\"Hello Dolly\" is part of the WordPress core"
+msgstr "\"Hello Dolly\" は WordPress コアの一部です"
+
+#: src/admin/bundle/SetupController.php:35
+msgid "Bundle setup"
+msgstr "バンドル設定"
+
+#: src/admin/bundle/DebugController.php:24
+msgid "Bundle diagnostics"
+msgstr "バンドルの診断"
+
+#: tpl/admin/bundle/setup/core.php:17 tpl/admin/bundle/setup/inc-nav.php:19
+#: src/admin/bundle/ConfController.php:140
+msgid "Advanced configuration"
+msgstr "詳細設定"
+
+#: src/admin/bundle/ConfController.php:55
+msgid "Advanced tab"
+msgstr "詳細設定タブ"
+
+#. Translators: Button that reloads current screen
+#: src/admin/file/EditController.php:230
+msgctxt "Editor"
+msgid "Revert"
+msgstr "取り消す"
+
+#. Translators: Button for downloading a PO, MO or POT file
+#: src/admin/file/EditController.php:234
+msgctxt "Editor"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: src/admin/bundle/SetupController.php:25
+msgid "Setup tab"
+msgstr "タブを設定"
+
+#. translators: where %s is a plugin or theme
+#: src/admin/bundle/SetupController.php:15
+msgid "Set up %s"
+msgstr "%s を設定"
+
+#: src/mvc/AjaxRouter.php:197
+msgid "Download action not found"
+msgstr "ダウンロード処理が見つかりません"
+
+#: tpl/admin/init/init-po.php:153
+msgid "Just copy English source strings"
+msgstr "英語のソース文字列のみをコピー"
+
+#: tpl/admin/bundle/conf.php:128
+msgid "Blocked paths"
+msgstr "ブロック済みのパス"
+
+#: tpl/admin/bundle/conf.php:141
+msgid "Save config"
+msgstr "設定を保存"
+
+#: tpl/admin/bundle/conf.php:142
+msgid "Add set"
+msgstr "セットを追加"
+
+#: tpl/admin/bundle/setup/saved.php:18 tpl/admin/bundle/conf.php:159
+msgid "Reset config"
+msgstr "設定をリセット"
+
+#: tpl/admin/bundle/locale.php:36 tpl/admin/bundle/inc-po-table.php:16
+#: tpl/admin/file/info-po.php:28
+msgid "Translation progress"
+msgstr "翻訳の進捗"
+
+#: tpl/admin/bundle/locale.php:46 tpl/admin/bundle/inc-po-table.php:25
+#: tpl/admin/list/locales.php:19 tpl/admin/list/inc-table.php:17
+msgid "Last modified"
+msgstr "最終更新日時"
+
+#: tpl/admin/config/settings.php:40 tpl/admin/config/settings.php:44
+msgid "Extracting strings"
+msgstr "抽出された文字列"
+
+#: tpl/admin/bundle/setup/saved.php:19
+msgid "Edit config"
+msgstr "設定の編集"
+
+#: tpl/admin/bundle/setup/saved.php:11
+msgid "Bundle configuration saved"
+msgstr "バンドル設定を保存しました"
+
+#: tpl/admin/bundle/conf.php:81
+msgid "Domain path"
+msgstr "ドメインパス"
+
+#: tpl/admin/bundle/conf.php:53
+msgid "File prefix"
+msgstr "ファイル名の接頭辞"
+
+#: tpl/admin/bundle/inc-po-table.php:108
+msgid "No translations found for \"%s\""
+msgstr "\"%s\" の翻訳が見つかりませんでした"
+
+#: tpl/admin/bundle/setup/partial.php:11
+msgid "Partially configured bundle"
+msgstr "設定が不十分なバンドル"
+
+#: tpl/admin/bundle/setup/none.php:11
+msgid "Unconfigured bundle"
+msgstr "未設定のバンドル"
+
+#: tpl/admin/bundle/setup/inc-nav.php:25
+msgid "Get help with this"
+msgstr "これについてのヘルプ"
+
+#: tpl/admin/bundle/setup/core.php:10 tpl/admin/bundle/setup/meta.php:11
+msgid "Bundle auto-configured"
+msgstr "バンドルを自動設定しました"
+
+#: tpl/admin/bundle/setup/conf.php:46
+msgid "XML setup"
+msgstr "XML 設定"
+
+#: tpl/admin/bundle/setup/author.php:11
+msgid "Official configuration"
+msgstr "公式の設定"
+
+#: tpl/admin/init/init-po.php:13
+msgid "Create template instead"
+msgstr "代わりにテンプレートを作成"
+
+#: src/admin/file/BaseController.php:105
+msgid "Editor"
+msgstr "エディター"
+
+#: tpl/admin/help/side-bar.php:6
+msgid "For more information:"
+msgstr "詳細情報:"
+
+#: src/package/Core.php:28
+msgid "The WordPress Team"
+msgstr "WordPress チーム"
+
+#: tpl/admin/file/view-mo.php:11
+msgid "File is in binary MO format"
+msgstr "ファイルはバイナリ― MO 形式です"
+
+#: tpl/admin/file/info-mo.php:15
+msgid "compiled"
+msgstr "コンパイル完了"
+
+#. translators: text field placeholder
+#: tpl/admin/common/inc-table-filter.php:6
+msgid "Filter..."
+msgstr "絞り込む..."
+
+#. Translators: When a file or folder cannot be modified due to filesystem
+#. permissions
+#: tpl/admin/common/inc-fsconn.php:50 tpl/admin/file/info.php:36
+#: tpl/admin/file/info.php:89
+msgid "Write protected"
+msgstr "ファイルは書き込み禁止です"
+
+#: tpl/admin/bundle/view.php:29
+msgid "Additional files found"
+msgstr "追加のファイルが見つかりました"
+
+#. Translators: %s is a URL. Keep the <a> tag intact
+#: tpl/admin/bundle/view.php:35 tpl/admin/bundle/view.php:57
+msgid "Click the <a href=\"%s\">setup</a> tab to complete the bundle configuration"
+msgstr "バンドルの設定を完了するために、<a href=\"%s\">設定</a>タブをクリックしてください"
+
+#: tpl/admin/bundle/setup.php:12
+msgid "Author details"
+msgstr "作者情報"
+
+#: tpl/admin/bundle/setup/conf.php:12
+msgid "Check config repository"
+msgstr "設定履歴をチェック"
+
+#: tpl/admin/bundle/locale.php:39 tpl/admin/bundle/inc-po-table.php:19
+msgid "Pending"
+msgstr "保留中"
+
+#: tpl/admin/bundle/conf.php:85 tpl/admin/bundle/conf.php:104
+msgid "Include"
+msgstr "含む"
+
+#: src/mvc/FileParams.php:147
+msgid "%s ago"
+msgstr "%s前"
+
+#: src/js/Strings.php:160
+msgctxt "Editor"
+msgid "Translation not loaded"
+msgstr "翻訳が読み込まれませんでした"
+
+#: src/js/Strings.php:127
+msgctxt "Editor"
+msgid "%s translation"
+msgstr "%s の翻訳"
+
+#: tpl/admin/file/info-pot.php:23 src/js/Strings.php:123
+msgctxt "Editor"
+msgid "Source text"
+msgstr "原文"
+
+#: src/fs/FileWriter.php:198
+msgid "Failed to delete %s"
+msgstr "%s の削除に失敗しました"
+
+#: src/fs/FileWriter.php:160
+msgid "Failed to copy %s to %s"
+msgstr "%s を %s にコピーできませんでした"
+
+#: src/fs/FileWriter.php:214
+msgid "\"%s\" is a directory, not a file"
+msgstr "\"%s\" はファイル名ではなく、ディレクトリ名です"
+
+#: src/fs/FileWriter.php:132
+msgid "Failed to chmod %s"
+msgstr "chmod %s に失敗しました"
+
+#: tpl/admin/common/inc-fsconn.php:37 src/error/Notice.php:20
+#: src/js/Strings.php:104
+msgid "Notice"
+msgstr "通知"
+
+#: src/config/XMLModel.php:42
+msgid "XML supplied is empty"
+msgstr "指定された XML ファイルは空です"
+
+#: src/admin/init/InitPotController.php:68
+msgid "Template file already exists"
+msgstr "テンプレートファイルはすでに存在します"
+
+#: src/admin/init/InitPotController.php:117
+msgid "New translations template for \"%s\""
+msgstr "%s の新しい翻訳テンプレート"
+
+#: src/ajax/FsConnectController.php:101
+msgid "Connected to remote file system"
+msgstr "リモートファイルシステムに接続しました"
+
+#: src/package/Header.php:77 src/admin/file/InfoController.php:127
+msgid "Unknown author"
+msgstr "作者不明"
+
+#: src/admin/config/DebugController.php:47
+msgid "System diagnostics"
+msgstr "システム診断"
+
+#: tpl/admin/file/move.php:26 src/admin/bundle/BaseController.php:97
+msgid "Advanced"
+msgstr "上級者向け"
+
+#: src/fs/FileWriter.php:52
+msgid "Failed to connect to remote server"
+msgstr "リモートサーバーとの接続に失敗しました。"
+
+#: src/admin/init/InitPoController.php:104
+msgid "Initializing new translations in \"%s\""
+msgstr "%sの新しい言語の初期化"
+
+#: tpl/admin/config/settings.php:68 tpl/admin/config/settings.php:72
+msgid "Saving PO/POT files"
+msgstr "PO/POT ファイルのバックアップ"
+
+#: tpl/admin/config/settings.php:89
+msgid "Add UTF-8 byte order mark"
+msgstr "UTF-8 を BOM 付きで書き出す"
+
+#: src/fs/FileWriter.php:239
+msgid "Permission denied to update file"
+msgstr "アップデートファイルへのアクセスが拒否されました"
+
+#: src/js/Strings.php:110
+msgid "Server returned invalid data"
+msgstr "サーバーが無効なデータを返してきました"
+
+#: tpl/admin/bundle/setup/conf.php:34
+msgid "OK, Load this config"
+msgstr "この設定を読み込む"
+
+#: src/mvc/Controller.php:49
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分なアクセス権がありません。"
+
+#: src/js/Strings.php:18
+msgid "Merged from %s"
+msgstr "%sから結合"
+
+#: src/js/Strings.php:21
+msgid "Merged from source code"
+msgstr "ソースコードから結合"
+
+#: src/js/Strings.php:25 pub/js/min/editor.js:1
+msgid "1 new string added"
+msgid_plural "%s new strings added"
+msgstr[0] "%s件の新しい文字列を追加しました"
+
+#: src/js/Strings.php:29 pub/js/min/editor.js:1
+msgid "1 obsolete string removed"
+msgid_plural "%s obsolete strings removed"
+msgstr[0] "%s件の文字列を削除しました"
+
+#: src/js/Strings.php:79
+msgid "Your changes will be lost if you continue without saving"
+msgstr "保存せずに続けると変更内容は反映されません"
+
+#: tpl/admin/init/init-prompt.php:39
+msgid "Back"
+msgstr "戻る"
+
+#: tpl/admin/bundle/locale.php:14 tpl/admin/common/inc-po-header.php:8
+#: tpl/admin/file/edit-pot.php:12 tpl/admin/file/view-pot.php:11
+msgctxt "Modified time"
+msgid "Updated"
+msgstr "更新日時"
+
+#: tpl/admin/config/settings.php:18 tpl/admin/config/settings.php:22
+msgid "Compiling MO files"
+msgstr "MOファイルのコンパイル"
+
+#: tpl/admin/config/settings.php:27
+msgid "Generate hash tables"
+msgstr "ハッシュテーブルを生成する"
+
+#: tpl/admin/config/settings.php:76
+msgid "Number of backups to keep of each file:"
+msgstr "ファイルごとに保存するバックアップ数:"
+
+#: tpl/admin/config/prefs.php:44 tpl/admin/config/settings.php:176
+#: tpl/admin/config/apis.php:121
+msgid "Save settings"
+msgstr "設定を保存"
+
+#: tpl/admin/bundle/inc-po-table.php:42 tpl/admin/bundle/conf.php:65
+#: tpl/admin/file/info-pot.php:12 tpl/admin/file/edit-pot.php:10
+#: tpl/admin/file/view-pot.php:9
+msgid "Template file"
+msgstr "テンプレートファイル"
+
+#. Translators: Placeholder text for text filter above editor
+#: src/admin/file/EditController.php:236
+msgid "Filter translations"
+msgstr "翻訳を絞り込み"
+
+#: tpl/admin/config/settings.php:33
+msgid "Include Fuzzy strings"
+msgstr "Fuzzy 文字列を含む"
+
+#: src/error/WriteException.php:13
+msgid "Permission denied"
+msgstr "アクセスが拒否されました"
+
+#: src/js/Strings.php:87 src/gettext/Metadata.php:203
+msgid "%s%% translated"
+msgstr "%s%%件翻訳済み"
+
+#: src/js/Strings.php:91 src/gettext/Metadata.php:205
+msgid "%s fuzzy"
+msgstr "%s件のファジー"
+
+#: src/js/Strings.php:95 src/gettext/Metadata.php:208
+msgid "%s untranslated"
+msgstr "%s件の未翻訳"
+
+#. translators: Page title for plugin home screen
+#: src/mvc/AdminRouter.php:39
+msgid "Loco, Translation Management"
+msgstr "Loco - 翻訳管理"
+
+#. Plugin Name of the plugin
+#: src/hooks/AdminHooks.php:63 src/mvc/AdminRouter.php:37
+msgid "Loco Translate"
+msgstr "Loco Translate"
+
+#: tpl/admin/common/inc-fsconn.php:18 tpl/admin/common/inc-fsconn.php:43
+#: tpl/admin/errors/no-backups.php:24 tpl/admin/file/edit-po.php:62
+#: src/admin/file/EditController.php:195 src/mvc/AdminRouter.php:67
+#: src/mvc/AdminRouter.php:72 src/data/Settings.php:170
+msgid "Settings"
+msgstr "設定"
+
+#: src/js/Strings.php:119
+msgid "Unknown error"
+msgstr "不明なエラー"
+
+#: src/admin/config/SettingsController.php:31
+#: src/admin/config/PrefsController.php:26
+#: src/admin/config/ApisController.php:43
+msgid "Settings saved"
+msgstr "設定を保存しました"
+
+#: src/js/Strings.php:83 src/gettext/Metadata.php:193 pub/js/min/editor.js:1
+msgid "1 string"
+msgid_plural "%s strings"
+msgstr[0] "%s文字列"
