@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-07-23 15:45+0200\n"
+"PO-Revision-Date: 2019-07-23 16:00+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: easy_whatsapp_contact.php:30
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/wact-admin.php:9
+msgid "None"
+msgstr "Ninguna"
+
+#: includes/wact-admin.php:10
+msgid "Fade in"
+msgstr "Desvanecer"
+
+#: includes/wact-admin.php:11
+msgid "Scale"
+msgstr "Escalar"
+
+#: includes/wact-admin.php:12
+msgid "Rotate"
+msgstr "Rotar"
+
+#: includes/wact-admin.php:16 includes/wact-shortcode.php:7
+msgid "Contact with us"
+msgstr "Contactar"
+
+#: includes/wact-admin.php:41 includes/wact-floating-icon.php:10
+msgid "Hello! Do you have any question?"
+msgstr "¡Hola! ¿Tienes alguna pregunta?"
+
+#: includes/wact-admin.php:141
+msgid "General"
+msgstr "General"
+
+#: includes/wact-admin.php:145
+msgid "Your phone number"
+msgstr "Tu número de teléfono"
+
+#: includes/wact-admin.php:148
+msgid ""
+"Your phone number with <strong>international prefix</strong>. Example: +33 "
+"6770084144. <a href=\"https://countrycode.org/\" target=\"_blank\">Click "
+"here to see the list</a>"
+msgstr ""
+"Tu número de teléfono con <strong>prefijo internacional</strong>. Ejemplo: "
+"+33 6770084144. <a href=\"https://countrycode.org/\" target=\"_blank"
+"\">Click aquí para ver la lista de prefijos.</a>"
+
+#: includes/wact-admin.php:153
+msgid "Predefined message"
+msgstr "Mensaje predefinido"
+
+#: includes/wact-admin.php:156
+msgid ""
+"Optional. A predefined text to start the chat. Empty if you do not want to "
+"show it."
+msgstr ""
+"Opcional. Mensaje predefinido con el que el usuario inicia el chat. Déjalo "
+"vacío si no quieres que se muestre."
+
+#: includes/wact-admin.php:161 includes/wact-admin.php:302
+#: includes/wact-admin.php:339
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: includes/wact-admin.php:166
+msgid "Floating icon"
+msgstr "Icono flotante"
+
+#: includes/wact-admin.php:170
+msgid "Chat window"
+msgstr "Ventana de conversación"
+
+#: includes/wact-admin.php:172
+msgid "Show"
+msgstr "Mostrar"
+
+#: includes/wact-admin.php:173
+msgid "Shows a chat to write a message when the icon is pressed"
+msgstr "Muestra una ventana de conversación cuando el icono es pulsado"
+
+#: includes/wact-admin.php:179
+msgid "Chat welcome message"
+msgstr "Mensaje de bienvenida de la ventana de chat"
+
+#: includes/wact-admin.php:182
+msgid "Starting message when the chat is open"
+msgstr "Mensaje de inicio cuando se abre un nuevo chat"
+
+#: includes/wact-admin.php:187
+msgid "Show in"
+msgstr "Mostrar en"
+
+#: includes/wact-admin.php:189
+msgid "Front page"
+msgstr "Página de inicio"
+
+#: includes/wact-admin.php:190
+msgid "Single post"
+msgstr "Entradas"
+
+#: includes/wact-admin.php:191
+msgid "Page"
+msgstr "Páginas"
+
+#: includes/wact-admin.php:192
+msgid "Archives"
+msgstr "Archivos"
+
+#: includes/wact-admin.php:193
+msgid "Search"
+msgstr "Búsqueda"
+
+#: includes/wact-admin.php:194
+msgid "404"
+msgstr "404"
+
+#: includes/wact-admin.php:195
+msgid "Woocommerce product"
+msgstr "Woocommerce productos"
+
+#: includes/wact-admin.php:196
+msgid "Woocommerce cart"
+msgstr "Woocommerce carrito"
+
+#: includes/wact-admin.php:197
+msgid "Woocommerce checkout"
+msgstr "Woocommerce checkout"
+
+#: includes/wact-admin.php:198
+msgid "Woocommerce account"
+msgstr "Woocommerce cuenta"
+
+#: includes/wact-admin.php:203
+msgid "Devices"
+msgstr "Dispositivos"
+
+#: includes/wact-admin.php:206
+msgid "All devices"
+msgstr "Todos los dispositivos"
+
+#: includes/wact-admin.php:207
+msgid "Only mobile devices"
+msgstr "Sólo dispositivos móviles"
+
+#: includes/wact-admin.php:208
+msgid "Only desktop"
+msgstr "Sólo ordenadores"
+
+#: includes/wact-admin.php:214
+msgid "Style"
+msgstr "Estilo"
+
+#: includes/wact-admin.php:232
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/wact-admin.php:245
+msgid "Position"
+msgstr "Posición"
+
+#: includes/wact-admin.php:248
+msgid "Bottom right"
+msgstr "Inferior derecha"
+
+#: includes/wact-admin.php:249
+msgid "Bottom left"
+msgstr "Inferior izquierda"
+
+#: includes/wact-admin.php:256
+msgid "Margin sides"
+msgstr "Margen lateral"
+
+#: includes/wact-admin.php:259
+msgid "Distance between icon and left or right side of the screen"
+msgstr ""
+"Distancia entre el icono y la parte derecha o izquierda de la pantalla"
+
+#: includes/wact-admin.php:264
+msgid "Margin bottom"
+msgstr "Margen inferior"
+
+#: includes/wact-admin.php:267
+msgid "Distance between icon and bottom of the screen"
+msgstr "Distancia entre el icono y la parte inferior de la pantalla"
+
+#: includes/wact-admin.php:272
+msgid "Z-index"
+msgstr "Z-index"
+
+#: includes/wact-admin.php:275
+msgid "Modify this value if the icon overlaps other element"
+msgstr "Modifica este valor si el icono se solapa con otro elemento"
+
+#: includes/wact-admin.php:280
+msgid "Delay"
+msgstr "Retraso"
+
+#: includes/wact-admin.php:282
+msgid "Seconds"
+msgstr "Segundos"
+
+#: includes/wact-admin.php:283
+msgid "Seconds before show icon"
+msgstr "Segundos antes de mostrar el icono"
+
+#: includes/wact-admin.php:288
+msgid "Animation"
+msgstr "Animación"
+
+#: includes/wact-admin.php:306
+msgid "Shortcode button"
+msgstr "Botón shortcode"
+
+#: includes/wact-admin.php:310
+msgid "Usage"
+msgstr "Uso"
+
+#: includes/wact-admin.php:312
+msgid ""
+"Just write the shortcode <strong>[wact_contact]</strong> wherever you want "
+"the contact button"
+msgstr ""
+"Escribe el shortcode <strong>[wact_contact]</strong> donde quieras que se "
+"muestre el botón de contacto"
+
+#: includes/wact-admin.php:317
+msgid "Button preview"
+msgstr "Vista previa del botón"
+
+#: includes/wact-admin.php:325
+msgid "Font size"
+msgstr "Tamaño de fuente"
+
+#: includes/wact-admin.php:332
+msgid "Call to action"
+msgstr "Llamada a la acción"

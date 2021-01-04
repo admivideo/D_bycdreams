@@ -1,0 +1,271 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-21 12:04+0200\n"
+"PO-Revision-Date: 2019-07-18 11:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: easy_whatsapp_contact.php:32
+msgid "Settings"
+msgstr ""
+
+#: includes/wact-admin.php:12
+msgid "None"
+msgstr ""
+
+#: includes/wact-admin.php:13
+msgid "Fade in"
+msgstr ""
+
+#: includes/wact-admin.php:14
+msgid "Scale"
+msgstr ""
+
+#: includes/wact-admin.php:15
+msgid "Rotate"
+msgstr ""
+
+#: includes/wact-admin.php:19
+msgid "Contact with us"
+msgstr ""
+
+#: includes/wact-admin.php:44 includes/wact-floating-icon.php:57
+msgid "Hello! Do you have any question?"
+msgstr ""
+
+#: includes/wact-admin.php:183
+msgid "Settings saved successfully"
+msgstr ""
+
+#: includes/wact-admin.php:186
+msgid "General"
+msgstr ""
+
+#: includes/wact-admin.php:190
+msgid "Your phone number"
+msgstr ""
+
+#: includes/wact-admin.php:193
+msgid ""
+"Your phone number with <strong>international prefix</strong>. Example: +33 "
+"6770084144. <a href=\"https://countrycode.org/\" target=\"_blank\">Click "
+"here to see the list</a>"
+msgstr ""
+
+#: includes/wact-admin.php:198
+msgid "Predefined message"
+msgstr ""
+
+#: includes/wact-admin.php:201
+msgid ""
+"Optional. A predefined text to start the chat. Empty if you do not want to "
+"show it."
+msgstr ""
+
+#: includes/wact-admin.php:207 includes/wact-admin.php:372
+#: includes/wact-admin.php:431
+msgid "Save settings"
+msgstr ""
+
+#: includes/wact-admin.php:214
+msgid "Floating icon"
+msgstr ""
+
+#: includes/wact-admin.php:220
+msgid "Custom icon"
+msgstr ""
+
+#: includes/wact-admin.php:228 includes/wact-admin.php:406
+msgid "Upload"
+msgstr ""
+
+#: includes/wact-admin.php:239
+msgid "Predefined icons"
+msgstr ""
+
+#: includes/wact-admin.php:260
+msgid "Icon height"
+msgstr ""
+
+#: includes/wact-admin.php:267
+msgid "Chat window"
+msgstr ""
+
+#: includes/wact-admin.php:269
+msgid "Show"
+msgstr ""
+
+#: includes/wact-admin.php:270
+msgid "Shows a chat to write a message when the icon is pressed"
+msgstr ""
+
+#: includes/wact-admin.php:276
+msgid "Chat welcome message"
+msgstr ""
+
+#: includes/wact-admin.php:279
+msgid "Starting message when the chat is open"
+msgstr ""
+
+#: includes/wact-admin.php:284
+msgid "Show in"
+msgstr ""
+
+#: includes/wact-admin.php:287
+msgid ""
+"You can use the shortcode <strong>[wact_icon]</strong> wherever you want "
+"or activate it globally in the following pages"
+msgstr ""
+
+#: includes/wact-admin.php:290
+msgid "Front page"
+msgstr ""
+
+#: includes/wact-admin.php:291
+msgid "Single post"
+msgstr ""
+
+#: includes/wact-admin.php:292
+msgid "Page"
+msgstr ""
+
+#: includes/wact-admin.php:293
+msgid "Archives"
+msgstr ""
+
+#: includes/wact-admin.php:294
+msgid "Search"
+msgstr ""
+
+#: includes/wact-admin.php:295
+msgid "404"
+msgstr ""
+
+#: includes/wact-admin.php:296
+msgid "Woocommerce product"
+msgstr ""
+
+#: includes/wact-admin.php:297
+msgid "Woocommerce cart"
+msgstr ""
+
+#: includes/wact-admin.php:298
+msgid "Woocommerce checkout"
+msgstr ""
+
+#: includes/wact-admin.php:299
+msgid "Woocommerce account"
+msgstr ""
+
+#: includes/wact-admin.php:304
+msgid "Devices"
+msgstr ""
+
+#: includes/wact-admin.php:307
+msgid "All devices"
+msgstr ""
+
+#: includes/wact-admin.php:308
+msgid "Only mobile devices"
+msgstr ""
+
+#: includes/wact-admin.php:309
+msgid "Only desktop"
+msgstr ""
+
+#: includes/wact-admin.php:316
+msgid "Position"
+msgstr ""
+
+#: includes/wact-admin.php:319
+msgid "Bottom right"
+msgstr ""
+
+#: includes/wact-admin.php:320
+msgid "Bottom left"
+msgstr ""
+
+#: includes/wact-admin.php:321
+msgid "Top right"
+msgstr ""
+
+#: includes/wact-admin.php:322
+msgid "Top left"
+msgstr ""
+
+#: includes/wact-admin.php:329
+msgid "Margin sides"
+msgstr ""
+
+#: includes/wact-admin.php:332
+msgid "Distance between icon and left or right side of the screen"
+msgstr ""
+
+#: includes/wact-admin.php:337
+msgid "Margin top/bottom"
+msgstr ""
+
+#: includes/wact-admin.php:340
+msgid "Distance between icon and top or bottom of the screen"
+msgstr ""
+
+#: includes/wact-admin.php:345
+msgid "Z-index"
+msgstr ""
+
+#: includes/wact-admin.php:348
+msgid "Modify this value if the icon overlaps other element"
+msgstr ""
+
+#: includes/wact-admin.php:353
+msgid "Delay"
+msgstr ""
+
+#: includes/wact-admin.php:355
+msgid "Seconds"
+msgstr ""
+
+#: includes/wact-admin.php:356
+msgid "Seconds before show icon"
+msgstr ""
+
+#: includes/wact-admin.php:361
+msgid "Animation"
+msgstr ""
+
+#: includes/wact-admin.php:376
+msgid "Shortcode button"
+msgstr ""
+
+#: includes/wact-admin.php:380
+msgid "Usage"
+msgstr ""
+
+#: includes/wact-admin.php:382
+msgid ""
+"Just write the shortcode <strong>[wact_contact]</strong> wherever you want "
+"the contact button"
+msgstr ""
+
+#: includes/wact-admin.php:387
+msgid "Button height"
+msgstr ""
+
+#: includes/wact-admin.php:398
+msgid "Custom button"
+msgstr ""
+
+#: includes/wact-admin.php:417
+msgid "Predefined buttons"
+msgstr ""
